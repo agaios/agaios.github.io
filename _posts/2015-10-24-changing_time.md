@@ -31,3 +31,40 @@ the time as space.
 I really want to be in (that) time. Praying.
 
 (for Georgia that is having her time today, and I'm not there)
+
+first edition:
+oh... and the time at github is specified differently than my time.  
+A couple of hours back. Just a bit.
+
+I think I will provide my own time from now and on.  
+The (good?) thing about git managment is that you can go past in time   
+and change your (static?) sayings and evolve them (or worse?) and nobody  
+notices.  
+Unless you clone this site and issue:
+
+`git log -p`
+
+then you are in history. Just in front of you.  The back of you.
+
+I think I will name that post differently. I'll put the this header at  
+the end.
+
+## evolving by revolving around time ... ##
+
+and here is my time: 2015-10-24 23:59:16
+
+You see, is almost midnight. We are in the middle. Before the mid is the  
+past. After mid is the feature. So mid is at now. But now is gone.  
+So is it possible to save the history (before the mid) as a proud time
+of ours?
+
+And for last but not least.  
+And after all this, won't you give me a smile?
+[what a coincidence? (see comments) Zero hour or midnight?](https://www.youtube.com/watch?v=4vHvzybkqfo)
+
+The time is finishing. Some minutes left ...
+And again we'll go back in time. One hour. Ok technically the clocks are  
+changing at 4. But symbolically after 2 minutes (human specified time sense).
+
+end...
+... almost.
