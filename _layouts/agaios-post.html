@@ -1,0 +1,12 @@
+---
+layout: agaios-post
+---
+  <header class="post-header">
+    <h3 class="post-title">{{ page.title }}</h3>
+    <p class="post-meta">{{ page.date | date: "%F %T" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+<article>
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
