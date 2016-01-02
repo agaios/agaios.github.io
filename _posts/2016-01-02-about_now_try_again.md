@@ -7,5 +7,5 @@ categories: time
 tags: now_came_and_gone
 ---
 
-... it's gone forever.
-it will come back soon.
+... it's gone forever.  
+But! it will come back soon.  
