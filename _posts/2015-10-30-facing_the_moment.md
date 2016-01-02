@@ -1,7 +1,7 @@
 ---
 layout: agaios-post
 title:  "Facing the moment"
-date:   2015-10-31 00:58:18 +0200
+date:   2000-12-31 00:58:18 +0200
 author: ... who still thinks, how to steal steel
 categories: time
 tags: timeface
